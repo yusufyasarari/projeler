@@ -1,0 +1,36 @@
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe.config
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\bin\Debug\OyunFinal.pdb
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.AssemblyReference.cache
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Giris.resources
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.oyun.resources
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Properties.Resources.resources
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.GenerateResource.cache
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.exe
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.pdb
+C:\Users\yyasar\source\repos\OyunFinal\OyunFinal\obj\Debug\OyunFinal.PauseMenu.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe.config
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\bin\Debug\OyunFinal.pdb
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.AssemblyReference.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Giris.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.oyun.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.PauseMenu.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Properties.Resources.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.GenerateResource.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.exe
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\OyunFinal\OyunFinal\obj\Debug\OyunFinal.pdb
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe.config
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\bin\Debug\OyunFinal.exe
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\bin\Debug\OyunFinal.pdb
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.AssemblyReference.cache
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Giris.resources
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.oyun.resources
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.PauseMenu.resources
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.Properties.Resources.resources
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.GenerateResource.cache
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.exe
+C:\Users\yyasar\Desktop\arabaOyunu\OyunFinal\OyunFinal\obj\Debug\OyunFinal.pdb
