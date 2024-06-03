@@ -1,0 +1,77 @@
+@media (max-width: 50%) {
+    .hakkindaSagKutu {
+        padding: 10px;
+    }
+
+   .hakkindaSolKutu{
+    padding: 10px;
+   }
+}
+/* Style the navigation menu */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Change to fixed */
+    width: 100%; /* Ensure it spans the full width */
+    top: 0; /* Position it at the top of the viewport */
+    z-index: 1000; /* Ensure it appears above other content */
+}
+  
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+    display: none;
+}
+  
+/* Style navigation menu links */
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+  
+/* Style the hamburger menu */
+.topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+  
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+/* Style the active link (or home/logo) */
+.active {
+    background-color: black;
+    color: white;
+}
+
+.nav {
+    display: block; /* Geniş ekranlarda göster */
+}
+
+/* Hamburger menü */
+.topnav {
+    display: none; /* Başlangıçta mobil boyutta gizli tut */
+}
+
+
+@media only screen and (max-width: 770px) {
+    /* 770px ve altındaki ekranlar için stil ayarları */
+
+    /* Normal menüyü gizle */
+    .nav {
+        display: none;
+    }
+
+    /* Hamburger menüyü göster */
+    .topnav {
+        display: block;
+    }
+}

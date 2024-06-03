@@ -1,0 +1,178 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+.hizmetbosluk {
+  width: 100%;
+  height: 500px;
+  border: 1px solid;
+
+  background-image: url(resim/direk/4.jpg);
+  background-position: center top;
+  background-size: cover;
+}
+.baslik {
+  width: 100%;
+  height: 50px;
+  margin-bottom: 2%;
+  margin-top: 1%;
+  margin-left: 1%;
+  font-size: xx-large;
+  color: black;
+  text-align: center;
+}
+.hizmetler {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+
+}
+.hizmet{
+  width: 100%;
+  height: auto;
+  padding: 5%;
+
+}
+.card-container {
+  width: 40%;
+  height: 300px;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  float: left;
+  color:white;
+  margin-left: 8%;
+  margin-bottom: 1%;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+}
+
+.card .front-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.card .front-content p {
+  font-size: 32px;
+  font-weight: 700;
+  opacity: 1;
+  background: linear-gradient(-45deg, #939393 0%, #83807b 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.card .content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+  background: linear-gradient(-45deg, #7e7774 0%, #968d87 100%);
+  color: #e8e8e8;
+  padding: 20px;
+  line-height: 1.5;
+  border-radius: 5px;
+  pointer-events: none;
+  transform: translateY(96%);
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.card .content .heading {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.card:hover .content {
+  transform: translateY(0);
+}
+
+.card:hover .front-content {
+  transform: translateY(-30%);
+}
+
+.card:hover .front-content p {
+  opacity: 0;
+}
+
+.yaziTipi {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  align-items: center;
+}
+
+
+@media (max-width: 900px) {
+  
+
+  .hizmetbosluk {
+    height: 300px;
+    background-position: center;
+  }
+
+  .baslik {
+    font-size: large;
+    height: auto;
+  }
+
+  .hizmetler {
+    height: auto;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .card-container {
+    width: 99%;
+    height: 150px;
+    margin: 10px 0;
+  }
+
+  .card .front-content p {
+    font-size: 24px;
+  }
+
+  .card .content .heading {
+    font-size: 24px;
+  }
+
+  .card .content {
+    transform: translateY(90%);
+  }
+
+  /* Prevent sections from merging */
+  .hizmetler {
+    margin-bottom: 20px; /* Add space below the hizmetler section */
+  }
+
+}
